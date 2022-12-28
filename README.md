@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komaljot&label=Profile%20views&color=0e75b6&style=flat" alt="komaljot" /> </p>
 
-- 🔭 **I’m currently persuing Computer Science Engineering.**
+- 🔭 **I’m currently pursuing Computer Science Engineering.**
 
 - 🌱 I’m currently learning **NodeJs and polishing my problem-solving skills.**
 
